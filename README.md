@@ -1,1 +1,1 @@
-# Binarry-convertor
+# Decimal to Binarry-convertor
